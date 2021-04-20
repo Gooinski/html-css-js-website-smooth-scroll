@@ -194,7 +194,7 @@
 .hero {
     background: #000000;
     background: linear-gradient(to right, #161616, #000);
-    padding: 200px;
+    padding: 200px 0;
 }
 
 .hero__container {
